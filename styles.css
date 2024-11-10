@@ -113,4 +113,17 @@ label{
     margin: 20px;
     background-color:khaki;
     font-weight: bolder;
+    color: brown;
+}
+#male{
+    margin: 20px;
+}
+#female{
+    margin: 20px;
+}
+#yes{
+    margin: 20px;
+}
+#no{
+    margin: 20px;
 }
